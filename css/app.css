@@ -3783,4 +3783,5 @@ table.hover tbody tr:nth-of-type(even):hover {
   animation-delay: 700ms !important; }
 
 body {
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  overflow-y: auto; }
