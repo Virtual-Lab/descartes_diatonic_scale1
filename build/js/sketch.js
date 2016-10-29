@@ -187,7 +187,7 @@ function setup() {
   layer.parent("diagram");
   console.log("loaded canvas");
 
-  Synth.init(f0);
+  Synthesizer.init(f0);
 
   tone = new Sound();
   hi00 = 2.13, phi0 = phi00;
