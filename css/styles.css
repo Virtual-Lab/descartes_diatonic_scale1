@@ -67,7 +67,7 @@
       padding: 1rem;
       float: left;
       background-color: #eee;
-      min-width: 400px;
+      /*min-width: 200px;*/
     }
 
     footer {
@@ -80,7 +80,7 @@
     
     #wrap {
       padding: 2rem;
-      width: 1160px;
+      width: 1260px;
       margin: 0 auto; 
     }
 
