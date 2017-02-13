@@ -285,6 +285,16 @@ function keyhandle1(e) {
     drawTemplate(x0, y0, r0);
   };
 
+  if (key === 70) {
+    templateVisible = true;
+    drawTemplate(x0, y0, r0);
+  };
+
+  if (key === 70) {
+    templateVisible = false;
+    drawTemplate(x0, y0, r0);
+  };
+
   if (key === 50) {
     n_diag = (diagrams.length + n_diag - 1)% diagrams.length;
     phi0 = phi00;
